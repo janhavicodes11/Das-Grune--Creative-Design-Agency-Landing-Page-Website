@@ -214,7 +214,7 @@ The project is deployed on **Vercel**.
 
 **Live Website:**
 
-[https://das-grune-creative-design-agency-la-eight.vercel.app/](https://das-grune-creative-design-agency-la-eight.vercel.app/)
+https://das-grune-creative-design-agency-la-eight.vercel.app/
 
 ---
 
@@ -232,11 +232,6 @@ Currently learning **HTML, CSS, and JavaScript** and building projects to streng
 
 This project was created as a **frontend practice project** to improve my understanding of HTML, CSS, layouts, positioning, typography, and visual design.
 
----
-
-## License
-
-This project was created for learning and practice purposes.
 ---
 
 ## License
