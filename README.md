@@ -8,7 +8,7 @@ A creative agency landing page built with **HTML5 and CSS3**, focused on bold ty
 
 ## Preview
 
-![Das Grüne Preview](https://github.com/janhavicodes11/Das-Grüne--Creative-Design-Agency-Landing-Page-Website/raw/main/assets/preview.png.png)
+![Das Grüne Preview](https://github.com/janhavicodes11/Das-Grune--Creative-Design-Agency-Landing-Page-Website/blob/main/assets/preview.png.png)
 
 > A frontend practice project exploring creative landing-page layouts and CSS-based visual composition.
 
