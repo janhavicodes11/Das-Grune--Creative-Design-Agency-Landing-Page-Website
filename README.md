@@ -237,3 +237,8 @@ This project was created as a **frontend practice project** to improve my unders
 ## License
 
 This project was created for learning and practice purposes.
+---
+
+## License
+
+This project was created for learning and practice purposes.
